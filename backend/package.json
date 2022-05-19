@@ -4,12 +4,15 @@
   "description": "Realtime time app with chatrooms",
   "main": "server.js",
   "scripts": {
-    "start": "node server",
-    "dev": "nodemon server"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "frontend": "cd frontend && npm start",
+    "dev": "nodemon server",
+    "start": "concurrently\"npm run dev\"\"npm run frontend\""
   },
   "author": "Alwayne Bailey And Kasper Pawlowski",
   "license": "MIT",
   "dependencies": {
+    "concurrently": "^7.2.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "moment": "^2.29.1",

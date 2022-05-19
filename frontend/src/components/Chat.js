@@ -43,6 +43,7 @@ function Chat(props) {
     const chatroomChange = (newChatroom) => {
         setChatroom(newChatroom);
         setUsernames([]);
+        setUsername([]);
         setMessages([]);
 
         // Join chosen chatroom
