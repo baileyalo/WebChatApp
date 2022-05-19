@@ -1,22 +1,21 @@
 
 
-STUDENTS:
+### CONTRIBUTORS:
+
 Alwayne Bailey                                                                                             
-101228834
+
 Alwayne.Bailey@georgebrown.ca
 
 Kasper Pawlowski
-101367569
+
 Kasper.Pawlowski@georgebrown.ca
 
 
 HOW TO RUN OUR CHAT APPLICATION:
-1. install the dependencies in both 'server' and 'react-app' folders by using the following command in each of them: npm install
-2. run applications in both folders by using the following command in each of them: npm start
+1. install the dependencies in both 'backend' and 'frontend' folders by using the following command in each of them: npm install
+2. run applications in both folders by using the following command in each of them: npm start from root 
 3. open the browser and go to http://localhost:3000/
-4. click 'GO TO ADMIN DASHBOARD' button as this is where FS II assignment was implemented
-5. Note that FS I assignment was rewritten with React
-6. enjoy!
+!
 
 As MongoDB server is cloud hosted, to check events and chat history do the following:
 1. open MongoDB Compass app
