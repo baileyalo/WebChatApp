@@ -43,3 +43,6 @@ or
 
 node .\server\queries\retrieveChatHistory.js -u Alwayne -r Developers 
 returns chat history from user Alwayne in chat Developers
+
+## Homepage
+![image](https://user-images.githubusercontent.com/90293555/169351999-9bce5a98-2469-4720-a0af-d0b60ef42107.png)
