@@ -1,4 +1,4 @@
-
+## ALKASP CHAT APP 
 
 #### CONTRIBUTORS:
 
@@ -34,6 +34,7 @@ retrieveEventLogs.js returns to the console all the event logs
 retrieveChatHistory.js returns to the console all chat history according to the given parameters. Both of them are optional.
 
 i.e.
+
 `node .\server\queries\retrieveChatHistory.js -u kasper` 
 returns chat history from user kasper
 
@@ -43,11 +44,12 @@ or
 returns chat history from user Alwayne in chat Developers
 
 
-#### Technologies Used (-)
+#### Technologies Used :
 
 - MongoDB
 - Express Js
 - React
 - Node Js
-### Homepage
+#### Homepage:S
+
 ![image](https://user-images.githubusercontent.com/90293555/169351999-9bce5a98-2469-4720-a0af-d0b60ef42107.png)
