@@ -5,9 +5,9 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "frontend": "cd frontend && npm start",
     "dev": "nodemon server",
-    "start": "concurrently\"npm run dev\"\"npm run frontend\""
+    "frontend": "cd frontend && npm start",   
+    "start": "concurrently \"npm run dev\" \"npm run frontend\""
   },
   "author": "Alwayne Bailey And Kasper Pawlowski",
   "license": "MIT",

@@ -1,4 +1,11 @@
 {
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "backend": "cd backend && nodemon server",
+    "frontend": "cd frontend && npm start",   
+    "start": "concurrently \"npm run backend\" \"npm run frontend\""
+  },
+
   "dependencies": {
     "concurrently": "^7.2.0"
   }
