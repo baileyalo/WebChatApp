@@ -2,12 +2,10 @@
 
 #### CONTRIBUTORS:
 
-Alwayne Bailey                                                                                             
-
+Alwayne Bailey                                                                                        
 Alwayne.Bailey@georgebrown.ca
 
 Kasper Pawlowski
-
 Kasper.Pawlowski@georgebrown.ca
 
 
