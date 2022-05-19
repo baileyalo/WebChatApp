@@ -2,5 +2,5 @@
     "frontendHost":"http://localhost:3000",
     "chatName":"AlKasp CHAT",
     "botName":"AlKasp Chat Bot",
-    "mongoDBConnectionString":"mongodb+srv://alkasp:alkasp@alkaspchat.rorsr.mongodb.net/AlkaspChat?retryWrites=true&w=majority"
+    "mongoDBConnectionString":"mongodb+srv://baileyalo:A_ravas101@cluster0.kmauv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 }
