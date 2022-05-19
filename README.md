@@ -48,6 +48,28 @@ returns chat history from user Alwayne in chat Developers
 - Express Js
 - React
 - Node Js
-#### Homepage:S
+#### Homepage:
 
 ![image](https://user-images.githubusercontent.com/90293555/169351999-9bce5a98-2469-4720-a0af-d0b60ef42107.png)
+
+
+![image](https://user-images.githubusercontent.com/90293555/169358733-3812bfb6-7a8a-44b4-9448-a333baff3b6b.png)
+
+
+![image](https://user-images.githubusercontent.com/90293555/169358897-79826ed4-0042-4e25-b589-240a14e5e9a0.png)
+
+
+![image](https://user-images.githubusercontent.com/90293555/169359016-daa92948-5d36-4086-ab8a-2f22b33aa4f6.png)
+
+
+#### Chat Logs:
+
+![image](https://user-images.githubusercontent.com/90293555/169359416-9924f7c3-2b22-48a0-8097-5307306b896c.png)
+
+
+![image](https://user-images.githubusercontent.com/90293555/169359506-ff7e41cc-98e8-4384-b4be-74ff6806744c.png)
+
+
+
+
+
