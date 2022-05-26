@@ -4,6 +4,7 @@ import JoinPage from './components/JoinPage';
 import Chat from './components/Chat';
 import Dashboard from './components/Dashboard';
 import './App.css';
+import Login from './components/Login';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Router history={createBrowserHistory()}>
         <Switch>
           <Route path="/" component={JoinPage} exact />
+          <Route path="/login" component={Login} exact/>
           <Route path="/chat/:chatroom/:username" component={Chat} />
           <Route path="/dashboard" component={Dashboard} />
         </Switch>

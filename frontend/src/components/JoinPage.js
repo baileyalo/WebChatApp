@@ -10,7 +10,7 @@ function JoinPage(props) {
 			<JoinPageHeader chatName={cfg.chatName} />
 			<main className="join-main">
 				<JoinPageForm history={props.history}/>
-				<Link to="/dashboard"><button className="btn">GO TO ADMIN DASHBOARD</button></Link>
+				<Link to="/login"><button className="btn">GO TO ADMIN DASHBOARD</button></Link>
 			</main>
 		</div>
     );
