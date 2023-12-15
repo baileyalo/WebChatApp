@@ -3,10 +3,10 @@
 #### CONTRIBUTORS:
 
 Alwayne Bailey                                                                                        
-Alwayne.Bailey@georgebrown.ca
+baileyalwayne@gmail.com
 
 Kasper Pawlowski
-Kasper.Pawlowski@georgebrown.ca
+
 
 
 HOW TO RUN OUR CHAT APPLICATION:
