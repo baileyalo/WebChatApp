@@ -18,7 +18,7 @@ HOW TO RUN OUR CHAT APPLICATION:
 As MongoDB server is cloud hosted, to check events and chat history do the following:
 1. open MongoDB Compass app
 2. choose 'connect to' option
-3. paste the following connection string: `mongodb+srv://baileyalo:A_ravas101@cluster0.kmauv.mongodb.net/test`
+3. paste the following connection string: `mongodb+srv://<username>:<password>@cluster0.kmauv.mongodb.net/test`
 4. upon successful connection choose AlkaspChat database
 5. check Events and History collections
 
